@@ -1,0 +1,37 @@
+{
+  "issuerName": {
+    "dataTestId": "issuerName",
+    "helperText": "issuer-mgmt-issuerNameRequired",
+    "maxLength": 200,
+    "title": "issuer-mgmt-issuerName",
+    "type": "text"
+  },
+  "federalEmployerId": {
+    "dataTestId": "federalEmployerId",
+    "helperText": "issuer-mgmt-federalEmployerIdPattern",
+    "maxLength": 200,
+    "title": "issuer-mgmt-federalEmployerId",
+    "type": "text"
+  },
+  "hiosIssuerId": {
+    "dataTestId": "hiosIssuerId",
+    "helperText": "issuer-mgmt-invalidHIOSId",
+    "maxLength": 200,
+    "title": "issuer-mgmt-hiosIssuerId",
+    "type": "text"
+  },
+  "naicCompanyCode": {
+    "dataTestId": "naicCompanyCode",
+    "helperText": "issuer-mgmt-maxDigitsAllowed",
+    "maxLength": 200,
+    "title": "issuer-mgmt-naicCompanyCode",
+    "type": "text"
+  },
+  "naicGroupCode": {
+    "dataTestId": "naicGroupCode",
+    "helperText": "issuer-mgmt-maxDigitsAllowed",
+    "maxLength": 200,
+    "title": "issuer-mgmt-naicGroupCode",
+    "type": "text"
+  }
+}
